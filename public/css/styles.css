@@ -1,0 +1,38 @@
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+.body {
+    margin-bottom: 70px;
+}
+
+.post {
+    background: rgb(252, 252, 252);
+    border-radius: 10px;
+}
+
+.footer-padding {
+    padding-bottom: 60px;
+}
+
+footer {
+    height: 60px;
+    background-color: #1abc9c !important;
+    margin-top: 30px !important;
+}
+
+footer p {
+    margin-top: 25px;
+    font-size: 12px;
+    color: #fff;
+}
